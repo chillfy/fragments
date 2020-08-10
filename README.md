@@ -1,5 +1,5 @@
 ### Series A (Fragments)
 
-Fragments of stories
+Fragments of stories. 
 
-短編・中篇のワンシーン
+短編・中篇のワンシーン。
