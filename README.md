@@ -1,9 +1,7 @@
 ### Series A (Fragments)
 
-Fragments of stories. 
-
+Fragments of stories. <br/>
 短編・中篇のワンシーン。
 
-　[#1: アジアン・サーズデイ](https://github.com/chillfy/fragments/blob/master/A1_asian_thursday.md)
-
+　[#1: アジアン・サーズデイ](https://github.com/chillfy/fragments/blob/master/A1_asian_thursday.md)<br/>
 　[#2: エイミー](https://github.com/chillfy/fragments/blob/master/A2_amy.md)
