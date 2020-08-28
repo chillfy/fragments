@@ -6,3 +6,4 @@ Fragments of stories. <br/>
 　[#1: アジアン・サーズデイ](https://github.com/chillfy/fragments/blob/master/A1_asian_thursday.md)<br/>
 　[#2: エイミー](https://github.com/chillfy/fragments/blob/master/A2_amy.md)<br/>
 　[#3: チエミ](https://github.com/chillfy/fragments/blob/master/A3_chiemi.md)<br/>
+　[#4: チェックイン](https://github.com/chillfy/fragments/blob/master/A4_checkin.md)<br/>
